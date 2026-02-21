@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Situación de Aprendizaje - Ciberseguridad e Ingeniería Social</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background: #f4f6f9;
+    color: #222;
+}
+h1, h2, h3 {
+    color: #1f4e79;
+}
+section {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+ul {
+    margin-left: 20px;
+}
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #555;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Situación de Aprendizaje LOMLOE</h1>
+<h2>“Ingeniería social y factor humano en la ciberseguridad del sistema productivo”</h2>
+
+<section>
+<h3>1. Contextualización</h3>
+<p>Esta situación de aprendizaje se desarrolla en el módulo <strong>Digitalización aplicada a los sectores productivos</strong> del ciclo formativo de Grado Medio. 
+Se orienta a la concienciación y análisis técnico del factor humano como vector de ataque en entornos digitalizados, 
+abordando amenazas de ingeniería social y la protección de datos en organizaciones productivas.</p>
+</section>
+
+<section>
+<h3>2. Vinculación curricular</h3>
+<p><strong>Resultado de Aprendizaje (RA5):</strong> Evalúa la importancia de los datos, así como su protección en una economía digital globalizada, definiendo sistemas de seguridad y ciberseguridad.</p>
+<p><strong>Criterios de Evaluación:</strong></p>
+<ul>
+<li>CE5.a Identifica los objetivos de los datos en las empresas.</li>
+<li>CE5.b Valora la importancia de la seguridad y su regulación en relación con los datos.</li>
+</ul>
+</section>
+
+<section>
+<h3>3. Competencias clave LOMLOE</h3>
+<ul>
+<li>Competencia digital (CD)</li>
+<li>Competencia personal, social y de aprender a aprender (CPSAA)</li>
+<li>Competencia ciudadana (CC)</li>
+<li>Competencia emprendedora (CE)</li>
+</ul>
+</section>
+
+<section>
+<h3>4. Saberes básicos</h3>
+<ul>
+<li>Protección de datos personales y empresariales</li>
+<li>Principios de ciberseguridad (confidencialidad, integridad, disponibilidad)</li>
+<li>Ingeniería social: phishing, smishing, vishing</li>
+<li>Impacto de la digitalización en la seguridad del sistema productivo</li>
+</ul>
+</section>
+
+<section>
+<h3>5. Secuencia de actividades</h3>
+<h4>Actividad 1: Análisis de amenazas</h4>
+<p>El alumnado analiza ejemplos reales de correos phishing y determina indicadores de fraude.</p>
+
+<h4>Actividad 2: Simulación de ingeniería social</h4>
+<p>Role-play donde un grupo actúa como atacante social y otro como equipo de seguridad.</p>
+
+<h4>Actividad 3: Diseño de política de seguridad</h4>
+<p>El alumnado redacta una política básica de protección de datos para una empresa simulada.</p>
+
+<h4>Actividad 4: Informe técnico</h4>
+<p>El alumnado elabora un informe de incidente de seguridad con medidas preventivas.</p>
+</section>
+
+<section>
+<h3>6. Evaluación</h3>
+<p><strong>Instrumentos:</strong> rúbrica, observación, pruebas escritas, productos digitales.</p>
+
+<table border="1" cellpadding="8">
+<tr><th>Indicador</th><th>Excelente</th><th>Adecuado</th><th>Básico</th><th>Insuficiente</th></tr>
+<tr><td>Identificación de amenazas</td><td>Analiza y explica</td><td>Identifica</td><td>Reconoce parcialmente</td><td>No reconoce</td></tr>
+<tr><td>Medidas de protección</td><td>Aplica y justifica</td><td>Enumera</td><td>Menciona</td><td>No aplica</td></tr>
+<tr><td>Normativa</td><td>Relaciona con casos</td><td>Describe</td><td>Menciona</td><td>Desconoce</td></tr>
+</table>
+</section>
+
+<section>
+<h3>7. Atención a la diversidad</h3>
+<ul>
+<li>Materiales adaptados y lectura fácil</li>
+<li>Trabajo cooperativo y tutoría entre iguales</li>
+<li>Ampliación para alumnado avanzado (casos reales de ciberataques)</li>
+</ul>
+</section>
+
+<section>
+<h3>8. Producto final</h3>
+<p>Informe técnico y campaña de concienciación digital para una empresa simulada.</p>
+</section>
+
+<section>
+<h3>9. Temporalización</h3>
+<p>Duración estimada: 6 sesiones de 1 hora.</p>
+</section>
+
+<footer>
+<p>Situación de aprendizaje elaborada conforme a LOMLOE y RD 659/2023 - Formación Profesional</p>
+</footer>
+
+</body>
+</html>
